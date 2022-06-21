@@ -1,6 +1,7 @@
 {
   "name": "optimized-soda-images",
   "version": "1.0.0",
+  "homepage": "https://optimized-soda-images.vercel.app",
   "repository": "https://github.com/mikeycalendo/optimized-soda-images",
   "license": "MIT",
   "scripts": {
